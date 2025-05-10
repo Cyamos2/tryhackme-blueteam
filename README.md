@@ -49,5 +49,5 @@ This project reflects hands-on SOC readiness in a simulated but practical enviro
 
 ## 🔗 TryHackMe Profile
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4357166" style='border:none;'></iframe>
+https://tryhackme.com/p/Cyamos92
 
